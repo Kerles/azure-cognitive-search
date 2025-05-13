@@ -1,0 +1,4 @@
+document_id,file_name,file_type,title,description,author,date,keywords
+001,documento_exemplo.pdf,pdf,"Relatório Anual 2024","Resumo do desempenho anual da empresa","Empresa XYZ","2024-12-31","desempenho, relatório, 2024"
+002,imagem_ocr.png,png,"Imagem do Contrato","Contrato digitalizado para análise OCR","Departamento Jurídico","2025-01-15","contrato, OCR, digitalização"
+003,texto_informativo.txt,txt,"Informativo Interno","Aviso sobre as novas políticas internas","RH","2025-02-05","informativo, políticas, recursos humanos"
